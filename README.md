@@ -54,7 +54,7 @@ mshell.exe
 
 ## Limitations
 
-- Does not support pipes (|)
+- Does not support pipes ( | )
 - Does not support input/output redirection
 - Does not support background execution
 - Limited argument parsing (no quoted strings)
